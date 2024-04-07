@@ -50,10 +50,6 @@ but they're too large to display inline, so here's a screenshot of the demo app 
 
 A [list of changes](./CHANGELOG.md) is available.
 
-## Author
-
-Wagner Truppel, trupwl@gmail.com
-
 ## License
 
 **TabularView** is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
